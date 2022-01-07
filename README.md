@@ -6,7 +6,9 @@
 $ npm install
 ```
 
+```bash
 Add a .env file with database Credentials.
+```
 
 ## Running the app
 
